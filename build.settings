@@ -1,0 +1,24 @@
+--	┌────────────────┐ --
+--	│                │ --
+--	│    SETTINGS    │ --
+--	│                │ --
+--	└────────────────┘ --
+
+	settings =
+	{
+		orientation =
+		{
+			default = 'landscape'
+		},
+		
+		iphone =
+		{
+			plist =
+			{
+				UIAppFonts =
+				{
+					'JandaManateeSolid.ttf'
+				},
+			},
+		},
+	}
